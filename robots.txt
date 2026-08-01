@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-65pyha.salamduit.sbs/sitemap.xml
